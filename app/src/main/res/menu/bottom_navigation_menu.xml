@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/home"
+
+        android:icon="@drawable/ic_home_selected" />
+
+    <item
+        android:id="@+id/menu_recharge"
+        android:title="@string/recharge"
+        android:icon="@drawable/selector_ng_recharge_menu" />
+
+    <item
+        android:id="@+id/menu_services"
+        android:title="@string/plans"
+        android:icon="@drawable/selector_bundles_menu" />
+
+    <item
+        android:id="@+id/menu_voucher"
+        android:title="@string/voucher"
+        android:icon="@drawable/selector_voucher_menu" />
+
+    <item
+        android:id="@+id/menu_data_share"
+        android:title="@string/share"
+        android:icon="@drawable/selector_share_menu" />
+
+</menu>

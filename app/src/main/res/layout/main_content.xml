@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/constraintMain"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbarFrame"
+        >
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/purple_500"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:src="@drawable/ic_smile_logo"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/dashboard_fragments"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottomNavigation"
+        android:layout_below="@id/toolbarFrame"
+        android:layout_marginTop="-1dp"
+        android:layout_marginBottom="1dp" />
+
+    <RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/zendesk"
+    android:layout_above="@id/bottomNavigation"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="5dp"
+        android:focusable="true"
+        >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:id="@+id/ivZendesk"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_zendesk_chat"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/tvZendesk"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignEnd="@id/ivZendesk"
+        android:text="0"
+        android:padding="3dp"
+        android:background="@drawable/badge_background"/>
+</RelativeLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:elevation="3dp"
+
+        app:menu="@menu/bottom_navigation_menu" />
+</RelativeLayout>

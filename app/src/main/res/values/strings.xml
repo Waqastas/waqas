@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">SmileMini</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_in_to_continue">Sign In To Continue…</string>
+    <string name="you_can_use_your_mysmile_portal_details_to_login_or_register_bellow">You Can Use Your MySmile Portal Details To Login Or Register Bellow</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered">Not Yet Registered?</string>
+    <string name="register">Register</string>
+    <string name="this_is_card_view">this is Card View</string>
+    <string name="name">Waqas</string>
+    <string name="msdin">03055130828</string>
+
+    <string name="check_balance">Check Balance</string>
+    <string name="my_profile">My Profile</string>
+    <string name="lbl_menu_check_balance">Check Balance</string>
+    <string name="lbl_menu_home">Home</string>
+    <string name="lbl_menu_recharge">Recharge</string>
+    <string name="lbl_menu_data_share">Share</string>
+    <string name="lbl_menu_voucher">Voucher</string>
+    <string name="lbl_menu_history">History</string>
+    <string name="lbl_menu_profile">MyProfile</string>
+    <string name="lbl_menu_bundles">Plans</string>
+    <string name="lbl_menu_balance" translatable="false">Check Balance</string>
+    <string name="lbl_menu_settings">Settings</string>
+    <string name="lbl_menu_contact_us">Contact us</string>
+    <string name="lbl_menu_logout">Logout</string>
+
+    <string name="stores">Stores</string>
+    <string name="coverage">Coverage</string>
+    <string name="speed_test">Speed Test</string>
+    <string name="settings">Settings</string>
+    <string name="contact_us">Contact us</string>
+    <string name="buy">Buy</string>
+    <string name="about">About</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="recharge">Recharge</string>
+    <string name="plans">Plans</string>
+    <string name="voucher">Voucher</string>
+    <string name="share">Share</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="n448_74">N448.74</string>
+    <string name="details">Details</string>
+    <string name="on_net_0">on_net:0</string>
+    <string name="off_net_0">off_net:0</string>
+    <string name="sms_balance">Sms Balance</string>
+    <string name="voice_balance">Voice Balance</string>
+    <string name="data_voice_plan">Data Voice Plan</string>
+    <string name="off_net_0_min">off_net:0 min</string>
+    <string name="on_net_0_min">on_net:0 min</string>
+    <string name="buy_data_plan">Buy Data Plan</string>
+    <string name="data_balance">Data Balance</string>
+    <string name="_26">.26</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-nodpi/badge_background.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-nodpi/ic_drawer_facebook.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-nodpi/ic_drawer_instagram.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-nodpi/ic_globe.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-nodpi/ic_recharge_selected_tz.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-nodpi/ic_zendesk_chat.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-nodpi/selector_btn.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-v24/ic_buy.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-v24/ic_contact_us.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-v24/ic_history.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-v24/ic_menu_profile.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-v24/ic_stores.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-xxxhdpi/bg_splash.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable-xxxhdpi/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/border.xml" value="0.18" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/bottom_nav_color.xml" value="0.1609375" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/down_arrow.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/rectangle_background.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_btn.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_bundle_button.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_bundles_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_circle_date.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_circle_white.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_dialog_all_corner_rounded.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_dialog_top_corner_rounded.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_home_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_ng_recharge_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_progressbar.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_progressbar_complete.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_share_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_tz_recharge_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/selector_voucher_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/drawable/solid_rectangle.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/activity_dashboard.xml" value="0.16" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/activity_login.xml" value="0.14" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/activity_login2.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/ad_layout.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/available_balance.xml" value="0.25" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/dashboard_fragment.xml" value="0.14" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/dashboardfragment.xml" value="0.18" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/data_balance.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/layout_header.xml" value="0.25" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/main_content.xml" value="0.21" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/menu_datashare.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/menu_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/menu_recharge.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/menu_service.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/menu_voucher.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/nav_footer.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/nav_header.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/sms_balance.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/solid_rectangle.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/splash.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/layout/voice_balance.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/menu/drawer_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Waqas rao/AndroidStudioProjects/SmileMini/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13802083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

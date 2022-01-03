@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_Voucher"
+            android:title="@string/voucher"
+            android:icon="@drawable/menu_voucher"/>
+         <item
+             android:id="@+id/nav_Balance"
+            android:title="@string/check_balance"
+            android:icon="@drawable/menu_balance"/>
+         <item
+             android:icon="@drawable/ic_menu_profile"
+             android:title="@string/my_profile"
+             android:id="@+id/nav_Profile"/>
+       <item android:title="@string/history"
+           android:id="@+id/navHistory"
+           android:icon="@drawable/ic_history" />
+        <item
+            android:title="@string/buy"
+            android:id="@+id/nav_buy"
+            android:icon="@drawable/ic_buy"/>
+        <item
+            android:icon="@drawable/ic_stores"
+            android:title="@string/stores"
+            android:id="@+id/nav_Stores"/>
+        <item
+            android:id="@+id/nav_Coverage"
+            android:icon="@drawable/ic_coverage"
+            android:title="@string/coverage"/>
+        <item
+            android:title="@string/speed_test"
+            android:icon="@drawable/ic_speedtest"
+            android:id="@+id/nav_SpeedTest"/>
+        <item
+            android:id="@+id/nav_Settings"
+            android:icon="@drawable/menu_settings"
+            android:title="@string/settings"/>
+        <item
+            android:title="@string/contact_us"
+            android:id="@+id/nav_ContactUs"
+            android:icon="@drawable/ic_contact_us"/>
+       <item android:title="@string/about"
+           android:id="@+id/navAbout"
+           android:icon="@drawable/menu_about"/>
+
+    </group>
+
+</menu>
