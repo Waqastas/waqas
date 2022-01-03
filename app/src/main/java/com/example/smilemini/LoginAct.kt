@@ -93,7 +93,8 @@ class LoginAct : BaseAct(), LoginContract.View, View.OnClickListener {
         if (p0 != null) {
             when (p0.id) {
                 R.id.loginBtn -> {
-                    loginEvent.onNext(Pair(binding.user!!.email, binding.user!!.pass))
+                     loginEvent.onNext(Pair(binding.user!!.email, binding.user!!.pass))
+                    Toast.makeText(this,"Login activity",Toast.LENGTH_SHORT).show()
                 }
             }
         }
