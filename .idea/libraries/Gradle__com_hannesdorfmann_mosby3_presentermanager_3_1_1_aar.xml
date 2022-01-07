@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.hannesdorfmann.mosby3:presentermanager:3.1.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/95d510056c2016080c05f1b5e8a4f7e6/transformed/jetified-presentermanager-3.1.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/95d510056c2016080c05f1b5e8a4f7e6/transformed/jetified-presentermanager-3.1.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/95d510056c2016080c05f1b5e8a4f7e6/transformed/jetified-presentermanager-3.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ecfe0e29760939dfc47af5bc38d3012e/transformed/jetified-presentermanager-3.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ecfe0e29760939dfc47af5bc38d3012e/transformed/jetified-presentermanager-3.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ecfe0e29760939dfc47af5bc38d3012e/transformed/jetified-presentermanager-3.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby3/presentermanager/3.1.1/7823053bfcaf90986016135bd7998c6d4a79ed92/presentermanager-3.1.1-javadoc.jar!/" />

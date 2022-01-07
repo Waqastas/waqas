@@ -4,11 +4,6 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.example.smilemini.Authentication.LoginContract
-import com.example.smilemini.Authentication.LoginPresenter
-import com.example.smilemini.Base.BaseAct
-import com.example.smilemini.Base.BaseViewState
-import com.example.smilemini.Dashboard.DashboardActivity
 import com.example.smilemini.databinding.ActivityLoginBinding
 import com.jakewharton.rxbinding3.widget.textChanges
 import io.reactivex.subjects.PublishSubject

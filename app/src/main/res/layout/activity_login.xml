@@ -9,7 +9,7 @@
 
         <variable
             name="user"
-            type="com.example.smilemini.LoginViewState" />
+            type="com.example.smilemini.LoginViewState"/>
 
     </data>
 

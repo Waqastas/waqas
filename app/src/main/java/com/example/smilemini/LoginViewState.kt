@@ -1,7 +1,5 @@
 package com.example.smilemini
 
-import com.example.smilemini.Base.BaseViewState
-
 
 data class LoginViewState(
     val email: String = "",

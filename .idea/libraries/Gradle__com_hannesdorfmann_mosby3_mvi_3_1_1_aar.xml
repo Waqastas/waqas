@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.hannesdorfmann.mosby3:mvi:3.1.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/50dbaeda7eef6dca1063080b4dfec5bf/transformed/jetified-mvi-3.1.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50dbaeda7eef6dca1063080b4dfec5bf/transformed/jetified-mvi-3.1.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50dbaeda7eef6dca1063080b4dfec5bf/transformed/jetified-mvi-3.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aca27cdecdc7a3cb9b9adfa0403544ce/transformed/jetified-mvi-3.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aca27cdecdc7a3cb9b9adfa0403544ce/transformed/jetified-mvi-3.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aca27cdecdc7a3cb9b9adfa0403544ce/transformed/jetified-mvi-3.1.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby3/mvi/3.1.1/659c2fbba3030c4e0226cacd5bfb0bc19d57618a/mvi-3.1.1-javadoc.jar!/" />
